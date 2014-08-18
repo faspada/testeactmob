@@ -1,1 +1,1 @@
-<?php echo "JK instala Skype"; ?>
+<?php echo "Teste"; ?>
